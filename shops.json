@@ -1,0 +1,122 @@
+[
+    {
+        "restaurant": "McDonny", 
+        "menu": [
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    }
+                ]
+    },
+    {
+        "restaurant": "CFK", 
+        "menu": [
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    }
+                ]
+    },
+    {
+        "restaurant": "Puhnasta Hata", 
+        "menu": [
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    }
+                ]
+    },
+    {
+        "restaurant": "Chas Poisty", 
+        "menu": [
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    }
+                ]
+    },
+    {
+        "restaurant": "Milk Bath", 
+        "menu": [
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    },
+                    {
+                        "title": "Big Big Burger", 
+                        "photo": "", 
+                        "price": 888
+                    }
+                ]
+    }
+]
